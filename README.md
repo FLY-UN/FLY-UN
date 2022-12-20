@@ -1,6 +1,6 @@
 <h1 align="center">Hi everyone👋, I'm Karen Kazaryan</h1>
 <h3 align="center">A manual QA engineer</h3>
-<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/1OkUq2Z2CSLKwBTB-Dgbh2W0_NBx_ILy_/view?usp=share_link">
+<img align="right" alt="coding" width="400" src="https://maximaster.ru/upload/media/default/0001/01/caf4030a3ff0b627df792488a2aa6acf9780ee15.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fly-un&label=Profile%20views&color=0e75b6&style=flat" alt="fly-un" /> </p>
 
