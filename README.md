@@ -1,3 +1,5 @@
+[![MasterHead](https://grupaazoty.com/assets/thumbs/18/185ef525b3bc77ac9b25e1626cd6b984.jpg)]
+
 <h1 align="center">Hi everyone👋, I'm Karen Kazaryan</h1>
 <h3 align="center">I am a manual QA engineer</h3>
 <img align="right" alt="coding" width="400" src="https://maximaster.ru/upload/media/default/0001/01/caf4030a3ff0b627df792488a2aa6acf9780ee15.jpeg">
